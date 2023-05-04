@@ -1,0 +1,14 @@
+{
+  "id": 3,
+    "etats": ["0","1"],
+    "alphabet": ["a"],
+    "transitions": {
+      "0": {
+        "a": ["1"]
+        }
+    },
+    "etat_initial": ["0"],
+    "etats_finaux": ["1"]
+}
+
+  
